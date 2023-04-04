@@ -1,0 +1,80 @@
+header {
+	background-color: #808000;
+	color: #fff;
+	padding: 30px;
+	text-align: center;
+}
+
+nav {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+section {
+	margin: 60px;
+}
+
+form {
+	display: block;
+	margin-bottom: 60px;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+	display: block;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+button[type="submit"] {
+	background-color: #4CAF50;
+	border: none;
+	color:
+}
+
+body {
+	background-color: powderblue;
+	color: color:#2B65EC;
+} 
+
+h2 {
+	font-size:25px;  
+	color:#2B65EC;
+}
+
+table, th, td { 
+	padding: 15px;
+	margin: 10px;
+	border: 5px;
+}
+
+myDiv {
+	text-align: right;
+
+}
+
